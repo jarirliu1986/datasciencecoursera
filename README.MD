@@ -1,1 +1,1 @@
-This is Jarir's repo for projects from Coursera on Data Sciences
+This is Jarir's repo for projects from Coursera on Data Sciences.
